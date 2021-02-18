@@ -1,3 +1,8 @@
+#This is the solver where we input the board inside code and it solves the board using backtracking. 
+#each time the code backtracks we print the backtrack statement and finally print out the final solution.
+#Has been tested for the easiest to the hardest sudoku puzzles including Escargot's Sudoku puzzle board
+#=========================================================================================================
+
 #Easy board
 # board = [
 #     [7,8,0,4,0,0,1,2,0],
